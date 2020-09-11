@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e685770-ca09-45da-b0fb-0266689f079a" name="afs" url="http://web.njit.edu/~lea25/AlnorHomework">
+        <fileTransfer rootFolder="/afs/cad.njit.edu/u/l/e/lea25/public_html" accessType="SFTP" host="afs13.njit.edu" port="22" sshConfigId="08e67d5f-81e0-4692-8a48-009a1349ec52" sshConfig="lea25@afs13.njit.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
