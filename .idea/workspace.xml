@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5c581b-77ac-46f8-b033-7552e9e15a78" name="Default Changelist" comment="" />
+    <list default="true" id="6b5c581b-77ac-46f8-b033-7552e9e15a78" name="Default Changelist" comment="first homework">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hNHQUQfSNEzmGHat2qu7fuFcci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +31,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,12 +42,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599844613365</updated>
-      <workItem from="1599844614434" duration="1543000" />
+      <workItem from="1599844614434" duration="2637000" />
     </task>
+    <task id="LOCAL-00001" summary="first homework">
+      <created>1599846481520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599846481520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="first homework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="158" key="#Deployment" timestamp="1599845621467">
@@ -49,6 +70,18 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="328" y="146" key="#SSH_Configurations/0.0.1500.1000@0.0.1500.1000" timestamp="1599844665646" />
+    <state x="531" y="241" key="FileChooserDialogImpl" timestamp="1599846314351">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="531" y="241" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1599846314351" />
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2" timestamp="1599846770580">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1599846770580" />
+    <state x="553" y="406" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599846672188">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="553" y="406" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1599846672188" />
     <state x="413" y="216" width="672" height="678" key="search.everywhere.popup" timestamp="1599844806140">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
